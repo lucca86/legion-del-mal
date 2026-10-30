@@ -4,4 +4,10 @@
 2. Doomsday
 3. Brainiac
 4. Joker
-5. Harley Queen
+5. Harley Quinn
+6. Darkseid
+
+
+# Notas
+
+Estas son las notas de los villanos
